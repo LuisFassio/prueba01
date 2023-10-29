@@ -4,4 +4,7 @@ b= 16
 
 print (a+b)
 
+
 sumar(a+b+c)
+
+print (a-b)
